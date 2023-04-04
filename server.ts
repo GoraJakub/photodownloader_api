@@ -21,6 +21,7 @@ db.once('open', () => {
     console.log('Połączono z mongoDB');
 });
 
+
 // Definicja interfejsu obiektu przekazywanego w zapytaniu POST
 interface AddImageRequestBody {
     url: string;

@@ -14,4 +14,5 @@ Uruchomienie aplikacji
 npm run
 ```
 
+
 Aby aplikacja działała poprawnie, należy skonfigurować bazę danych MongoDB z bazą o nazwie `images`
