@@ -19,6 +19,7 @@ const ImageSchema = new mongoose.Schema<Image>({
   { collection: 'images' }
 );
 
+
 // Model dla obiektu Image
 const ImageModel = mongoose.model<Image>('Image', ImageSchema);
 
